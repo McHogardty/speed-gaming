@@ -864,6 +864,7 @@ dependencies = [
 name = "speed-gaming"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "serenity",
  "tokio",
 ]
